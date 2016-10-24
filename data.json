@@ -1,0 +1,5 @@
+[
+    {"uri":"https://www.amazon.com/gp/product/B00NORB6ZO/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&th=1&psc=1", "expect":50},
+    {"uri":"https://www.amazon.co.uk/gp/product/B00NORB6ZO/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=APSXEMYYQP5UE", "expect":50},
+    {"uri":"https://www.amazon.de/gp/product/B00NORB6ZO/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=A3JWKAKR8XB7XF", "expect":50},
+]
