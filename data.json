@@ -1,3 +1,6 @@
 [
-    {"asin":"B00NORB6ZO", "expect":200}
+    {"asin":"B00NORB6ZO", "expect":200},
+    {"asin":"B00NDV0W88", "expect":420},
+    {"asin":"B00NXSHL80", "expect":420},
+    {"asin":"B00QHAPRM8", "expect":180}
 ]
