@@ -6,5 +6,7 @@
     {"asin":"B01GJYET0M", "expect":700},
     {"asin":"B01GJYEW18", "expect":700},
     {"asin":"B01GJYEYRA", "expect":700},    
-    {"asin":"B01GJYET0M", "expect":700}
+    {"asin":"B01GJYET0M", "expect":700},
+    {"asin":"B00KHTNIW6", "expect":150},
+    {"asin":"B00KHTM25A", "expect":140},    
 ]
