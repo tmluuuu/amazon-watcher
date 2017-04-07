@@ -8,6 +8,7 @@
     {"asin":"B01GJYET0M", "expect":700},
     {"asin":"B00KHTNIW6", "expect":150, "notes":"under amour t shirt!"},
     {"asin":"B00KHTM25A", "expect":140},  
-    {"asin":"B00J9T715A", "expect":600, "notes":"ecco"},
+    {"asin":"B00J9T715A", "expect":600, "notes":"ecco black 41"},
+    {"asin":"B00J9T76B4", "expect":600, "notes":"ecco brown 41"},
     {"asin":"B00NXSHL80", "expect":450, "notes":"skins a400"}
 ]
