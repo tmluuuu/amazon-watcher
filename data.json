@@ -1,12 +1,13 @@
 [
     {"asin":"B00NORB6ZO", "expect":200},
     {"asin":"B00NDV0W88", "expect":400},
-    {"asin":"B00NXSHL80", "expect":400},
     {"asin":"B00QHAPRM8", "expect":180},
     {"asin":"B01GJYET0M", "expect":700},
     {"asin":"B01GJYEW18", "expect":700},
     {"asin":"B01GJYEYRA", "expect":700},    
     {"asin":"B01GJYET0M", "expect":700},
-    {"asin":"B00KHTNIW6", "expect":150},
-    {"asin":"B00KHTM25A", "expect":140},    
+    {"asin":"B00KHTNIW6", "expect":150, "notes":"under amour t shirt!"},
+    {"asin":"B00KHTM25A", "expect":140},  
+    {"asin":"B00J9T715A", "expect":600, "notes":"ecco"},
+    {"asin":"B00NXSHL80", "expect":450, "notes":"skins a400"}
 ]
